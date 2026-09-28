@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/aqi.js": {
+      "maxDuration": 10
+    }
+  }
+}
